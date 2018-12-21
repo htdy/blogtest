@@ -3,7 +3,7 @@ title: "MADness"
 description: A Template for Jekyll
 
 # Files
-baseurl:/blogttest
+baseurl: /blogttest
 pagesdir: pages
 assets:
   libs: assets/libs
