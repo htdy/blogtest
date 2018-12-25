@@ -1,6 +1,6 @@
 # Site settings
-title: "HTDY"
-description: A Template for Jekyll
+title: "HTDY's Blog"
+description: 
 
 # Files
 baseurl: 
@@ -8,9 +8,8 @@ pagesdir: pages
 assets:
   libs: assets/libs
   owner: assets/owner
-logo: logo.png
-discus_shortname: HTDY
-email: mad@ness.com
+discus_shortname: 
+email: 1076690272@qq.com
 url: "https://htdy.github.io"
 search: true
 share: true
