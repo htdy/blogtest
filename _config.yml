@@ -1,5 +1,5 @@
 # Site settings
-title: "MADness"
+title: "HTDY"
 description: A Template for Jekyll
 
 # Files
@@ -9,7 +9,7 @@ assets:
   libs: assets/libs
   owner: assets/owner
 logo: logo.png
-discus_shortname: MADness
+discus_shortname: HTDY
 email: mad@ness.com
 url: "https://htdy.github.io"
 search: true
@@ -24,19 +24,17 @@ wpm: 200
 
 # Owner/author information
 owner:
-  name:   MADness
+  name:   HTDY
   avatar: avatar.jpg
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    MAD for Jekyll
+  description:    HTDY 
 
 # Social networking links used in footer. Update and remove as you like.
-twitter_username: MAD4Jekyll
-facebook_username: MAD4Jekyll
-github_username: MAD4Jekyll
-deviantart_username: MAD4Jekyll
-500px_username: MAD4Jekyll
-flickr_username: MAD4Jekyll
-instagram_username: MAD4Jekyll
+github_username: HTDY
+deviantart_username: HTDY
+500px_username: HTDY
+flickr_username: HTDY
+instagram_username: HTDY
 
  
 # Internal nav
