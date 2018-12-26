@@ -19,3 +19,5 @@ share: false
 ### 插件化编程框架模型
 ### git plumbing command
 ### annissible
+### leetcode
+### chrome plugin
