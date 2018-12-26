@@ -11,8 +11,10 @@ category: [plan]
 comments: false
 share: false
 ---
-### Github
+### Github (projects, setting include personal and organization and bussiness)
 ### Metasploit
 ### spide web data by python 
 ### postgres GIS
 ### HTTP by python (head, cookie, form)
+### 插件化编程框架模型
+### git plumbing command
